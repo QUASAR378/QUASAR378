@@ -54,10 +54,24 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QUASAR378&show_icons=true&theme=midnight-purple&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QUASAR378&layout=compact&theme=midnight-purple&hide_border=true" />
-</p>
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=QUASAR378&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=QUASAR378&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" height="180em" />
+
+</div>
+
+<div align="center">
+  
+<img src="https://streak-stats.demolab.com/?user=QUASAR378&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=QUASAR378&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+
+</div>
 
 ---
 
