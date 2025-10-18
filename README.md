@@ -1,7 +1,7 @@
 <!-- Victor Kamau | GitHub Profile README -->
 
 <h1 align="center">👋 Hi, I'm Victor Kamau</h1>
-<h3 align="center">Engineer | Embedded Systems | IoT | Web & Mobile Developer | AI/ML Enthusiast</h3>
+<h3 align="center">Electrical and Electronics Engineering Student | Embedded Systems | IoT | Web & Mobile Developer | AI/ML Enthusiast</h3>
 
 ---
 
